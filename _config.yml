@@ -19,7 +19,6 @@ address: |
 # google_analytics: UA-XXXXXXXX-X
 
 ### Do not change the followings unless you know what you are doing ###
-
 # Build settings
 markdown: kramdown
 
