@@ -25,11 +25,11 @@ If there are aspects of these topics with which you are not comfortable, it is w
 ## Links to other websites for this course
 
  * [Gradescope](https://www.gradescope.com/courses/969129)
- * [Piazza](https://piazza.com/umd/spring2025/cmsc701)
+ * [Piazza](https://piazza.com/umd/spring2026/cmsc701)
 
 ## Logistics
 
-* Course Website : [https://umd-cmsc701.github.io/s2025](https://umd-cmsc701.github.io/s2025)
+* Course Website : [https://umd-cmsc701.github.io/s2026](https://umd-cmsc701.github.io/s2026)
 * Instructor : Rob Patro
 * Instructor office hours: by appointment
 * Class location: IRB 2107
@@ -161,7 +161,7 @@ The following is a planned schedule of the material we will cover in the course,
 
 ## Course Resources
 
-The course website is [https://umd-cmsc701.github.io/s2025](https://umd-cmsc701.github.io/s2026), which is probably where you are reading this right now.
+The course website is [https://umd-cmsc701.github.io/s2026](https://umd-cmsc701.github.io/s2026), which is probably where you are reading this right now.
 
 The course has a Piazza page, and you can enroll [here](http:///www.piazza.com/umd/spring2026/cmsc701).  I encourage you to interact with each other, raise questions, and discuss course topics using Piazza.  This is also the best place to raise general questions about material we cover in the course (as opposed to e.g. an e-mail), since other students can see the response and ask follow-up questions.  This helps to reduce redundancy in the answering of questions.
 
