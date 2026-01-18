@@ -4,7 +4,8 @@ date: 2025-03-25T0:00:00
 title: Minimal Perfect Hashing and de Bruijn Graph Representation
 tldr: "Let the hashing begin"
 thumbnail: /static_files/presentations/lec.jpg
-published: falsepublished: true
+published: false
+published: true
 links: 
     - url: /static_files/presentations/lec_7.pdf
       name: Minimal Perfect Hashing
