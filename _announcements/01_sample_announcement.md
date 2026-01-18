@@ -2,4 +2,4 @@
 date: 2025-01-17T9:00:00+5:00
 ---
 
-Welcome to CMSC701, Spring 2025. 
+Welcome to CMSC701, Spring 2026. 
