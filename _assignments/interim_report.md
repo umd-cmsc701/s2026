@@ -5,7 +5,7 @@ title: "Interim project report"
 #pdf: /static_files/assignments/asg.pdf
 #attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf
-#published: true
+published: false
 due_event: 
     type: due
     date: 2025-04-21  23:59:00
