@@ -36,7 +36,7 @@ If there are aspects of these topics with which you are not comfortable, it is w
 * Class days/time: Tuesdays/Thursdays 11:00 AM — 12:15 PM
 * TAs : 
   - Iman Gholami
-    - Office hours : TBD
+    - Office hours : Wed. 4-5PM
 
 <!-- * **Lecture recordings** : I plan to make a best-effort attempt to record the lectures in this class. However, **watching a pre-recorded lecture is not, in general, a sufficient proxy for attending the lecture in person (there are numerous reasons for this that I'd be happy to discuss in person)**. Therefore, the policy in this class for recordings is the following: I will attempt (subject to overcoming technical difficulties) to record the lectures, but I will not, by default, post them on Panopto. If you need to miss class for a health-related reason (or any legitimate reason), just send me an e-mail and I will be happy to provide a recording of the lecture you missed. I hope this policy provides the benefits of recorded lectures while mitigating some of the detriments. -->
 
@@ -84,79 +84,74 @@ The following is a planned schedule of the material we will cover in the course,
 
 ### Tentative coverage of topics
 
-- Week of Jan 27.
+- Week of Jan 27. **Cancelled due to university closure**
+
+- Week of Feb 2.
   - Course introduction, logistics & goals
   - Basic biology fundamentals, genomics concepts and motivating problems
 
-- Week of Feb 3.
+- Week of Feb 9.
   - Fundamental challenges in genomics : Indexing and Search
   - Read mapping and sequence homology search as motivating examples
   - "Classic" indexing structures : suffix array
 
-- Week of Feb 10.
+- Week of Feb 16.
   - More full-text indexing 
   - Advanced suffix array concepts
   - BWT and FM-index
 
-- Week of Feb 17. 
+- Week of Feb 23.
   - Read mapping (seeding, chaining, filtering)
   - Contiguous vs. spliced read mapping
-
-- Week of Feb 24.
-  - **Rob out of town Feb 27**
-  - Sequence alignment, edit distance
-  - Optimized alignment variants, banded and blocked alignment 
   - Project list out (tentative)
 
-- Week of March 3.
+- Week of March 2.
+  - Sequence alignment, edit distance
+  - Optimized alignment variants, banded and blocked alignment 
+
+- Week of March 9.
   - Rank, select, and basic succinct data structures
   - Minimal perfect hashing (BBhash data structure; maybe PTHash)
   - Project selection & groups due
 
-- Week of March 10.
+- Week of March 16.
+  - **No class: Spring Break**
+  
+- Week of March 23.
   - "Signature" schemes : minimizers, syncmers, strobemers, k min-mers
   - The de Bruijn graph and compacted de Bruijn graph
 
-- Week of March 17.
-  - **No class: Spring Break**
-  
-- Week of March 24.
+- Week of March 30.
   - Constructing the compacted (colored) de Bruijn graph efficiently 
-
-- Week of March 31.
   - More on constructed the compacted (colored) de Bruijn graph efficiently
-  - Reference indexing using the compacted de Bruijn graph 
 
-- Week of April 7.
+- Week of April 6.
+  - Reference indexing using the compacted de Bruijn graph 
   - Unitigs, simplitigs and spectrum preserving string sets
   - Large-scale sequence search; Sequence Bloom Tree and variants
 
-- Week of April 14.
+- Week of April 13.
   - Large-scale sequence search (continued)
   - Mantis, color set compression and the counting dBG
   - Final project progress report due
 
-- Week of April 21.
+- Week of April 20.
   - Single-cell transcriptome profiling, barcoding, UMI-resolution
 
-- Week of April 28.
+- Week of April 27.
   - Downstream (computational) challenges in single-cell analysis
-  - Representation, visualization, feature selection, sketching, clustering, integration
+  - Course wrapup & start of student presentations
   
-- Week of May 5.
+- Week of May 4. _Final week of in-class lectures_
   - Final project presentations
 
-- Week of May 12.
-  - Course wrapup
-  - May 13th is last day of class
-
-- Fri May 16.
+- Mon May 11.
   - Final exam available
 
-- Mon May 19.
+- Wed May 13.
   - Final exam due by 11:59PM
 
-- Wed May 21.
+- Mon May 18.
   - Final project reports due by 11:59PM
 
 ## Course Resources
@@ -169,12 +164,12 @@ The course has a Piazza page, and you can enroll [here](http:///www.piazza.com/u
 
 **Coursework and grading**: The coursework will consist of 2-3 homework projects, a final project, and a final exam. Students will have an opportunity to select their final project in Feb.; there will be a few projects to choose from, and students will also be allowed to propose their own projects. The projects are to be done, ideally, in teams of 2 (I will allow the project to be done solo with approval). Further, the grade for the final project will be broken down into components for the interim report, a final project presentation, and the final project delivery itself. For the final project, the final deliverables will consist of runnable code (including a link to a version-controlled repository containing the source), and a short (4-5 page) research-style paper describing the work you’ve done. The breakdown of weights for these different assignments will be as follows:
 
-- Homeworks - 25%
+- Homeworks - 20%
 - Final Project - 50%
   - Interim report 10%
   - Final presentation 10%
   - Final report 30%
-- Final Exam — 25%
+- Final Exam — 30%
 
 **Programming languages for homeworks**: As we will see throughout the course, modern computational genomics places a great emphasis on efficiency.  A very large part of this, of course, is algorithms and data structures, but another important part is the details of how these are implemented and the efficiency of the underlying implementation.  As a result, it's a requirement that the programming assignments (but not necessarily the final project) be completed in a _compiled_ (and ideally native) programming language.  Examples of languages that meet this requirement include Rust, Go, Nim, Zig, C, C++, Java, Kotlin and Scala. There are, of course, many others, and if you have a desire to use a specific language outside of this list, please just check with me first. However, languages like Python and R are not appropriate for the programming assignments we will be doing in the course and shouldn't be used.
 
