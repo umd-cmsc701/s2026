@@ -1,14 +1,14 @@
 ---
 type: assignment
-date: 2025-01-31T4:00:00+4:30
+date: 2025-02-05T4:00:00
 title: 'Assignment #0 - Becoming familiar with Gradescope'
 #pdf: /static_files/assignments/asg.pdf
 #attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf
-published: false
+published: true
 due_event: 
     type: due
-    date: 2025-02-11T11:59:00+4:30
+    date: 2026-02-12T11:59:00
     description: 'Assignment #0 due'
 ---
 
