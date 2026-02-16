@@ -30,6 +30,10 @@ In the second part of the project, you will implement a program to read your ser
 file, as well as to read an input `FASTA` file containing many queries.  Your program will then produce an 
 output file with the query results in a well-specified output format.
 
+## Sample data
+
+Sample data that you can use to test your implementation with locally is available [here](https://github.com/umd-cmsc701/suffix_array_test_data/tree/2026).
+
 ## Overall structure
 
 You will submit your assignment as a tarball named `CMSC701_A1.tar.gz`.  When this tarball is expanded, it should create a
