@@ -1,14 +1,14 @@
 ---
 type: assignment
-date: 2024-02-11T4:00:00+4:30
+date: 2026-03-03T4:00:00
 title: "Suffix array construction and query"
 #pdf: /static_files/assignments/asg.pdf
 #attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf
-published: false
+published: true
 due_event: 
     type: due
-    date: 2025-02-27T11:59:00+4:30
+    date: 2026-03-03T11:59:00
     description: 'Assignment due'
 ---
 
