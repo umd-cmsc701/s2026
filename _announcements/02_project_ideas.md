@@ -1,6 +1,6 @@
 ---
 date: 2026-02-19T0:00:00
-published: true
+published: false
 ---
 
 A list of possible project ideas for the final project is now available [here](https://hackmd.io/@PI7Og0l1ReeBZu_pjQGUQQ/r1Nb8sQdZg).  Take a look at this
