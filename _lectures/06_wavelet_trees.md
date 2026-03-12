@@ -8,4 +8,6 @@ published: true
 links: 
     - url: /static_files/presentations/lec_6.pdf
       name: Wavelet Trees
+    - url: /static_files/presentations/lec_6_wm.pdf
+      name: The Wavelet Matrix
 ---
