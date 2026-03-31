@@ -1,14 +1,14 @@
 ---
 type: assignment
-date: 2025-04-04T4:00:00+4:30
+date: 2025-03-31T4:00:00+4:30
 title: "Interim project report"
 #pdf: /static_files/assignments/asg.pdf
 #attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf
-published: false
+published: true
 due_event: 
     type: due
-    date: 2025-04-21  23:59:00
+    date: 2025-04-13  23:59:00
     description: 'Assignment due'
 ---
 
@@ -35,7 +35,7 @@ and data collection.
 
 ### Relevant literature and next steps
 
-List the 5 most relevant pieces of literature or resources you have found.  These can be academic papers, relevant
+List the 4 most relevant pieces of literature or resources you have found.  These can be academic papers, relevant
 software libraries, or a mix of both.  
 
 Describe the next steps you will take in your project. What do you hope to have accomplished by the end of the semester?
