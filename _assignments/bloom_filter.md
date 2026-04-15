@@ -1,17 +1,13 @@
 ---
 type: assignment
-date: 2025-04-03
+date: 2026-04-16
 title: 'Building and Querying a Bloom Filter'
-published: false
-due_event: 
-    type: due
-    date: 2025-04-17 23:59:00
-    description: 'Assignment Due'
+published: true
 ---
 
 # Overview: Implmenting a Bloom Filter
 
-This assignment is due by **11:59PM ET on April 30**.  It consists of 1 executable (which implements 2 sub-commands). One for building a 
+This assignment is due by **11:59PM ET on April 29**.  It consists of 1 executable (which implements 2 sub-commands). One for building a 
 Bloom filter and the other for querying the Bloom filter.
 
 ## Overall structure
