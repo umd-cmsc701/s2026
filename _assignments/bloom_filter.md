@@ -3,6 +3,10 @@ type: assignment
 date: 2026-04-15
 title: 'Building and Querying a Bloom Filter'
 published: true
+due_event:
+  date: 2026-04-29
+  type: due
+  description: "Assignment 3 due"
 ---
 
 # Overview: Implmenting a Bloom Filter
