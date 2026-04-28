@@ -1,7 +1,11 @@
 ---
 type: assignment
-date: 2026-04-28T0:00:00
+date: 2026-04-28 23:59:00
 published: true
+due_event:
+  date: 2026-05-07 23:59:00
+  type: due
+  description: "Presentations complete"
 ---
 
 # Final project lightning presentation 
